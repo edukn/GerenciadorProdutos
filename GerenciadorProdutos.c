@@ -1,3 +1,4 @@
+//Desenvolvido por EduardoKNeto
 #include <stdio.h>
 #include "funcoes.h"
 
